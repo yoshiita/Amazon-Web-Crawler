@@ -9,5 +9,5 @@ It checks the price every day and updates the local csv file the same.
 
 ### Built With
 
-- [BeautifulSoup]()
-- [Jupyter]()
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Jupyter](https://jupyter.org)
